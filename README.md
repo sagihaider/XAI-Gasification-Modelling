@@ -24,4 +24,4 @@ This project has three Jupyter notebook files.
 
 # 4. Citation
 
-The results of this project was submitted in Fuel (Elsevier). Currently, the paper is under review.
+The results of this project has been accepted for the publication in Fuel (Elsevier). Currently, the paper is under proof-reading. 
